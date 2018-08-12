@@ -8,7 +8,7 @@ This is sample app to keeps UI in sync with backend data stores!
 
 ## Dependancy Manager
 
-```Cocoapods``` (https://guides.cocoapods.org/using/getting-started.html) 
+  ```Cocoapods``` (https://guides.cocoapods.org/using/getting-started.html) 
 
 ### Installing
 
@@ -16,13 +16,13 @@ if you dont have cocoapods setup in your mac
 
 please follow this steps to install.
 
-- Install cocoapods
+- 1.Install cocoapods
 
-```sudo gem install cocoapods```
+  ```sudo gem install cocoapods```
 
-- To complete the setup of CocoaPods
+- 2.To complete the setup of CocoaPods
 
-```pod setup```
+  ```pod setup```
 
 ### To Run downloaded Project
 - 1.open terminal and go to the location of your project.
@@ -38,7 +38,7 @@ please follow this steps to install.
 
 
 ## Dependencies
-```RealmSwift``` (https://cocoapods.org/pods/RealmSwift)
+  ```RealmSwift``` (https://cocoapods.org/pods/RealmSwift)
 
 ## Author
 - Sharat Robin Reddy Guduru
