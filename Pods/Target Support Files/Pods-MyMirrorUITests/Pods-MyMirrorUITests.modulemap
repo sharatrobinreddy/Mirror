@@ -1,0 +1,6 @@
+framework module Pods_MyMirrorUITests {
+  umbrella header "Pods-MyMirrorUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
